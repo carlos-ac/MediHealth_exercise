@@ -1,0 +1,5 @@
+Diagnosis|60|0
+X-Ray|150|0
+Blood Test|78|0
+ECG|200.4|0
+Vaccine|27.5|15
